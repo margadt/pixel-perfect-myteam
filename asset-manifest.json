@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/pixel-perfect-myteam/static/css/main.dc4ee488.chunk.css",
-    "main.js": "/pixel-perfect-myteam/static/js/main.b5ecac10.chunk.js",
-    "main.js.map": "/pixel-perfect-myteam/static/js/main.b5ecac10.chunk.js.map",
+    "main.css": "/pixel-perfect-myteam/static/css/main.9b3819df.chunk.css",
+    "main.js": "/pixel-perfect-myteam/static/js/main.5506f180.chunk.js",
+    "main.js.map": "/pixel-perfect-myteam/static/js/main.5506f180.chunk.js.map",
     "runtime-main.js": "/pixel-perfect-myteam/static/js/runtime-main.be6e5d6f.js",
     "runtime-main.js.map": "/pixel-perfect-myteam/static/js/runtime-main.be6e5d6f.js.map",
-    "static/js/2.018704d5.chunk.js": "/pixel-perfect-myteam/static/js/2.018704d5.chunk.js",
-    "static/js/2.018704d5.chunk.js.map": "/pixel-perfect-myteam/static/js/2.018704d5.chunk.js.map",
+    "static/js/2.6dad3702.chunk.js": "/pixel-perfect-myteam/static/js/2.6dad3702.chunk.js",
+    "static/js/2.6dad3702.chunk.js.map": "/pixel-perfect-myteam/static/js/2.6dad3702.chunk.js.map",
     "index.html": "/pixel-perfect-myteam/index.html",
-    "precache-manifest.fef9d65d1f9911c050126ce35f595449.js": "/pixel-perfect-myteam/precache-manifest.fef9d65d1f9911c050126ce35f595449.js",
+    "precache-manifest.d0287054580dc47ecb8fbe9010d8c817.js": "/pixel-perfect-myteam/precache-manifest.d0287054580dc47ecb8fbe9010d8c817.js",
     "service-worker.js": "/pixel-perfect-myteam/service-worker.js",
-    "static/css/main.dc4ee488.chunk.css.map": "/pixel-perfect-myteam/static/css/main.dc4ee488.chunk.css.map",
-    "static/js/2.018704d5.chunk.js.LICENSE.txt": "/pixel-perfect-myteam/static/js/2.018704d5.chunk.js.LICENSE.txt",
+    "static/css/main.9b3819df.chunk.css.map": "/pixel-perfect-myteam/static/css/main.9b3819df.chunk.css.map",
+    "static/js/2.6dad3702.chunk.js.LICENSE.txt": "/pixel-perfect-myteam/static/js/2.6dad3702.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/pixel-perfect-myteam/static/media/icon-quotes.efcf9a22.svg",
     "static/media/avatar-aiysha.jpg": "/pixel-perfect-myteam/static/media/avatar-aiysha.d1d950e0.jpg",
     "static/media/avatar-arthur.jpg": "/pixel-perfect-myteam/static/media/avatar-arthur.60ff8909.jpg",
     "static/media/avatar-kady.jpg": "/pixel-perfect-myteam/static/media/avatar-kady.f16826ca.jpg",
     "static/media/bg-pattern-home-4-about-3.svg": "/pixel-perfect-myteam/static/media/bg-pattern-home-4-about-3.fe4f785a.svg",
-    "static/media/bg-pattern-home-5.svg": "/pixel-perfect-myteam/static/media/bg-pattern-home-5.458c9fcd.svg"
+    "static/media/bg-pattern-home-5.svg": "/pixel-perfect-myteam/static/media/bg-pattern-home-5.458c9fcd.svg",
+    "static/media/logo.svg": "/pixel-perfect-myteam/static/media/logo.22c2459e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.be6e5d6f.js",
-    "static/js/2.018704d5.chunk.js",
-    "static/css/main.dc4ee488.chunk.css",
-    "static/js/main.b5ecac10.chunk.js"
+    "static/js/2.6dad3702.chunk.js",
+    "static/css/main.9b3819df.chunk.css",
+    "static/js/main.5506f180.chunk.js"
   ]
 }
