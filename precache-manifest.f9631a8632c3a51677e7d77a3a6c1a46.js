@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cca372ac5dace24b90ba97cf0cae813",
+    "revision": "644469db83d6d3abd08bda8968cbcddc",
     "url": "/pixel-perfect-myteam/index.html"
   },
   {
-    "revision": "8a634fb9419ae46a962a",
-    "url": "/pixel-perfect-myteam/static/css/main.9b3819df.chunk.css"
+    "revision": "aa7d7fc49f6a41cc9831",
+    "url": "/pixel-perfect-myteam/static/css/main.9cb2d0a9.chunk.css"
   },
   {
-    "revision": "b18ab5c1bf55d9dc1d4f",
-    "url": "/pixel-perfect-myteam/static/js/2.6dad3702.chunk.js"
+    "revision": "573e93c08c9598c7b3ca",
+    "url": "/pixel-perfect-myteam/static/js/2.acb464c6.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/pixel-perfect-myteam/static/js/2.6dad3702.chunk.js.LICENSE.txt"
+    "url": "/pixel-perfect-myteam/static/js/2.acb464c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a634fb9419ae46a962a",
-    "url": "/pixel-perfect-myteam/static/js/main.5506f180.chunk.js"
+    "revision": "aa7d7fc49f6a41cc9831",
+    "url": "/pixel-perfect-myteam/static/js/main.f713fbfe.chunk.js"
   },
   {
     "revision": "32bbf0faa607a4838d8f",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "458c9fcdfef1f53beea9819bd3a2b4e8",
     "url": "/pixel-perfect-myteam/static/media/bg-pattern-home-5.458c9fcd.svg"
+  },
+  {
+    "revision": "df4410aead66f0adfa80154f254dc562",
+    "url": "/pixel-perfect-myteam/static/media/icon-hamburger.df4410ae.svg"
   },
   {
     "revision": "efcf9a22216f31e99d42af206a8227a9",
