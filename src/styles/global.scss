@@ -1,0 +1,20 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/functions.scss";
+@import "setup/mixins.scss";
+
+// Basics
+@import "basics/helpers.scss";
+@import "basics/layout.scss";
+@import "basics/base.scss";
+@import "basics/links.scss";
+@import "basics/buttons.scss";
+@import "basics/typography.scss";
+
+// Components
+@import "components/reviews";
+@import "components/first-view";
+@import "components/nav-bar";
+@import "components/second-view";
+@import "components/c2a-banner";
+@import "components/_footer";

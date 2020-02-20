@@ -1,0 +1,140 @@
+.reviews {
+  text-align: center;
+  padding: 140px 0;
+  position: relative;
+  color: white;
+
+  .burger {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+
+  .bottom-logo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+
+  .reviews-container {
+    // max-width: 1110px;
+
+    h1 {
+      font-size: rem(48px);
+      line-height: rem(48px);
+      max-width: 932px;
+      margin: 0 auto;
+      margin-bottom: 70px;
+      span {
+        color: #79c8c7;
+      }
+    }
+
+    .cards-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .card {
+        max-width: 350px;
+        margin: 15px;
+        background-image: url("../images/icon-quotes.svg");
+        background-position: 50% 0;
+        background-repeat: no-repeat;
+
+        img {
+          margin-top: 32px;
+          width: 62px;
+          height: 62px;
+          border: 2px solid #c4fffe;
+          border-radius: 40px;
+        }
+
+        p:first-of-type {
+          min-height: 150px;
+          font-size: rem(15px);
+          line-height: rem(25px);
+          padding-top: 20px;
+        }
+
+        h2 {
+          color: #79c8c7;
+          margin: 0;
+        }
+
+        .profession {
+          font-style: italic;
+          font-size: rem(13px);
+          margin: 0;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .reviews {
+    padding: 100px 0;
+    .reviews-container {
+      h1 {
+        max-width: 490px;
+        font-size: rem(32px);
+        line-height: rem(32px);
+        margin-bottom: 48px;
+      }
+
+      .cards-container {
+        flex-direction: column;
+
+        .card {
+          max-width: 573px;
+          margin-bottom: 35px;
+
+          p:first-of-type {
+            min-height: 100px;
+          }
+
+          img {
+            margin-top: 5px;
+          }
+        }
+      }
+      .card:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .reviews {
+    padding: 140px 10px;
+
+    .reviews-container {
+      .cards-container {
+        h1:first-of-type {
+          max-width: 350px;
+          margin-bottom: 50px;
+        }
+
+        .card {
+          margin: 0;
+          margin-bottom: 30px;
+        }
+
+        .card:last-child {
+          margin-bottom: 0;
+        }
+
+        img {
+          margin-top: 10px;
+        }
+
+        p:first-of-type {
+          max-width: 350px;
+          min-height: 120px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.6;
+}
+
+body {
+  margin: 0;
+  background-color: $clr4;
+  color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: Livvic-Bold;
+  font-size: rem(100px);
+}
+
+p {
+  font-family: Livvic-SemiBold;
+  font-size: rem(18px);
+}
