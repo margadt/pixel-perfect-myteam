@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "644469db83d6d3abd08bda8968cbcddc",
+    "revision": "9271bea5707c6fcfc0bca6f5f55bf849",
     "url": "/pixel-perfect-myteam/index.html"
   },
   {
-    "revision": "aa7d7fc49f6a41cc9831",
-    "url": "/pixel-perfect-myteam/static/css/main.9cb2d0a9.chunk.css"
+    "revision": "70c77e9ece1251d786db",
+    "url": "/pixel-perfect-myteam/static/css/main.e66323ee.chunk.css"
   },
   {
-    "revision": "573e93c08c9598c7b3ca",
-    "url": "/pixel-perfect-myteam/static/js/2.acb464c6.chunk.js"
+    "revision": "8954f82619bbf10d2767",
+    "url": "/pixel-perfect-myteam/static/js/2.d2d0290f.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/pixel-perfect-myteam/static/js/2.acb464c6.chunk.js.LICENSE.txt"
+    "url": "/pixel-perfect-myteam/static/js/2.d2d0290f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa7d7fc49f6a41cc9831",
-    "url": "/pixel-perfect-myteam/static/js/main.f713fbfe.chunk.js"
+    "revision": "70c77e9ece1251d786db",
+    "url": "/pixel-perfect-myteam/static/js/main.21959eef.chunk.js"
   },
   {
     "revision": "32bbf0faa607a4838d8f",
@@ -44,12 +44,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pixel-perfect-myteam/static/media/avatar-kady.f16826ca.jpg"
   },
   {
+    "revision": "00dc85d0f8c874f627cedb798221c9c5",
+    "url": "/pixel-perfect-myteam/static/media/bg-pattern-about-1-mobile-nav-1.00dc85d0.svg"
+  },
+  {
+    "revision": "e45a3d0d8de698bfbea8ddc00225fd8e",
+    "url": "/pixel-perfect-myteam/static/media/bg-pattern-home-1.e45a3d0d.svg"
+  },
+  {
+    "revision": "2fd804c4ec4e139d392e43c599bd277b",
+    "url": "/pixel-perfect-myteam/static/media/bg-pattern-home-2.2fd804c4.svg"
+  },
+  {
     "revision": "fe4f785a6475f2ea47465eb9a6fcda38",
     "url": "/pixel-perfect-myteam/static/media/bg-pattern-home-4-about-3.fe4f785a.svg"
   },
   {
     "revision": "458c9fcdfef1f53beea9819bd3a2b4e8",
     "url": "/pixel-perfect-myteam/static/media/bg-pattern-home-5.458c9fcd.svg"
+  },
+  {
+    "revision": "6a06cfad75cd90283d3a0e10c16ae684",
+    "url": "/pixel-perfect-myteam/static/media/icon-close.6a06cfad.svg"
   },
   {
     "revision": "df4410aead66f0adfa80154f254dc562",
