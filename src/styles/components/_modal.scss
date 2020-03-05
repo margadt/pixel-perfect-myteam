@@ -1,0 +1,63 @@
+.modal-container {
+  position: fixed;
+  width: 100vw;
+  max-width: 100%;
+  background-color: rgba(0, 0, 0, 0.507);
+  height: 100vh;
+  z-index: 1;
+
+  .modal {
+    width: 255px;
+    height: 100vh;
+    background-color: $clr4;
+    position: absolute;
+    right: 0;
+    background-image: url("../../styles/images/bg-pattern-about-1-mobile-nav-1.svg");
+    background-repeat: no-repeat;
+    background-position: 281% 100%;
+    
+    img:first-of-type {
+      position: absolute;
+      top: 56px;
+      right: 25px;
+    }
+
+    .menu {
+      padding-top: 112px;
+      padding-left: 48px;
+      p {
+        margin: 0;
+        margin-bottom: 24px;
+      }
+
+      p:last-of-type {
+        margin-bottom: 36px;
+      }
+    }
+
+    div:last-of-type {
+      margin: 0 auto;
+    }
+  }
+
+  .modal-enter {
+    opacity: 0;
+    transform: translate(100%, 0);
+  }
+
+  .modal-enter-active {
+    opacity: 1;
+    transform: translate(0, 0);
+    transition: 0.7s ease;
+  }
+
+  .modal-exit {
+    opacity: 1;
+  }
+
+  .modal-exit-active {
+    opacity: 0;
+    transform: translate(100%, 0);
+    transition: 0.7s ease;
+  }
+}

@@ -1,3 +1,82 @@
 .first-view-container {
-  height: 700px;
+  height: 500px;
+  color: white;
+  padding-top: 55px;
+  background: url("../images/bg-pattern-home-1.svg") no-repeat -8% 18%;
+
+  div:first-of-type {
+    height: 100%;
+    position: relative;
+  }
+
+  h1 {
+    width: 10ch;
+    margin: 0;
+    line-height: rem(100px);
+    span {
+      color: $clr3;
+    }
+  }
+
+  div p {
+    width: 40ch;
+    margin-bottom: 0;
+    & > {
+      vertical-align: bottom;
+    }
+  }
+
+  div img {
+    width: 320px;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+}
+
+@media screen and (max-width: 1320px) {
+  .first-view-container {
+    background: none;
+  }
+}
+
+@media screen and (max-width: $tablet-breakpoint) {
+  .first-view-container {
+    div:first-of-type {
+      display: flex;
+      justify-content: center;
+    }
+
+    div div {
+      text-align: center;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    h1 {
+      font-size: rem(64px);
+      line-height: rem(62px);
+    }
+
+    div p {
+      font-size: rem(15px);
+      line-height: rem(28px);
+      width: 52ch;
+    }
+
+    div img {
+      width: 358px;
+      right: unset;
+    }
+
+    svg {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: $mobile-breakpoint){
+
 }
